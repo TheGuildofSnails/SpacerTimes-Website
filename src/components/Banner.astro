@@ -1,0 +1,11 @@
+---
+const { name, desc, link } = Astro.props;
+---
+
+<div class="p-5 mb-4 text-light bg-opacity-10 rounded-3 bg-costa">
+    <div class="container-fluid py-5">
+      <h1 class="display-5 fw-bold">{name}</h1>
+      <p class="col-md-8 fs-4">{desc}</p>
+      <a class="btn btn-outline-light btn-lg" type="button" href={link} target="_blank">Watch Now</a>
+    </div>
+  </div>
