@@ -2,6 +2,8 @@
 layout: ../../layouts/Scripts.astro
 ---
 
+# Cold
+
 Narrator
 Gorgina, Reggie, and Jarven all stand near the grave of their recently deceased father. In the freezing cold of Kentucky the siblings all take turns reading their goodbyes to their father. First was Reggie. 
 

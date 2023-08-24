@@ -2,6 +2,8 @@
 layout: ../../layouts/Scripts.astro
 ---
 
+# Philistine Squad 9: The Filming Of
+
 GASAN
 You read the script right?
 

@@ -2,6 +2,8 @@
 layout: ../../layouts/Scripts.astro
 ---
 
+# Sanity Erased
+
 **Morgan Fischer**<br/>
 Hello. My name is Morgan Fischer, and this is my last transmission.
 

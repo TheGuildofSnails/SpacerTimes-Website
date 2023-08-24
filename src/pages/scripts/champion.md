@@ -2,6 +2,8 @@
 layout: ../../layouts/Scripts.astro
 ---
 
+# Champion
+
 Quintin
 What loss? 
 

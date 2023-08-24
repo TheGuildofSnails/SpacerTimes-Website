@@ -2,6 +2,8 @@
 layout: ../../layouts/Scripts.astro
 ---
 
+# Silence
+
 NARRATOR
 The Abar isn’t known for their creative architecture. Stock standard utility buildings with a dark gray finish. The citizen when on the rare occasion we can visit other countries always talk of the vibrant colors. There were buildings and art that served no purpose yet they were made. And not just made but maintained, treasured. 
 

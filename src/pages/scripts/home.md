@@ -2,6 +2,8 @@
 layout: ../../layouts/Scripts.astro
 ---
 
+# Home
+
 Sigual
 So Maya how do you feel? 
 

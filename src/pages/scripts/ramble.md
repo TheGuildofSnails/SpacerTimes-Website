@@ -2,6 +2,8 @@
 layout: ../../layouts/Scripts.astro
 ---
 
+# Ramble
+
 CATHERINE
 Doctor, will I ever be normal?
 

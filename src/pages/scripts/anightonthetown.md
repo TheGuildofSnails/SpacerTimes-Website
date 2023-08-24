@@ -2,6 +2,8 @@
 layout: ../../layouts/Scripts.astro
 ---
 
+# A Night on The Town
+
 Edie arrived at the distillery. Quietly he put a freshly sharpened hunting knife on his belt loop. Giving himself a moment to breath and recite his plan, Edie’s hand was shaking slightly. Pushing himself forward, Edie began his quest of revenge. 
 
 The distillery was full of workers, so crowded that no one even noticed Edie. His casual wear and expensive boots made him look as un-threatening as possible. As Edie sat down a waiter swooped upon his drink list in hand. 

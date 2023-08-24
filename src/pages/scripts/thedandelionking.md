@@ -2,6 +2,8 @@
 layout: ../../layouts/Scripts.astro
 ---
 
+# The Dandelion King
+
 Narrator
 Your emotion will not save you. Nor your will, or luck. The only thing you can offer the Dandelion King is your need to be a servant, everything else isn’t allowed. Despite being a ruler for hundreds of years only a few managed to be his servant. The challenge is only one, one action to be his servant. Just climb the Dandelion hills and come back without taking a single Dandelion back. 
 

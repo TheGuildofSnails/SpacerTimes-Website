@@ -2,6 +2,8 @@
 layout: ../../layouts/Scripts.astro
 ---
 
+# Fran
+
 *Mike sat down near Fran’s hospital bed.*
 
 MIKE

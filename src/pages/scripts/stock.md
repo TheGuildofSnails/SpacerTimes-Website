@@ -2,6 +2,8 @@
 layout: ../../layouts/Scripts.astro
 ---
 
+# Stock
+
 Andrea
 Thank you for sitting down with us.
 
