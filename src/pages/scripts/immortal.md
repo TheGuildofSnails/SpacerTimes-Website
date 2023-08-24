@@ -1,3 +1,7 @@
+---
+layout: ../../layouts/Scripts.astro
+---
+
 Man
 Immortality? What an odd word. To live forever, I mean only the gods achieved that. Maybe that's why I love Greek myths. I can relate to someone on the struggles of immortality. Not that I can complain about what this gift has brought me. I’ve been in thousands of loving marriages, amazing friendships, and so many adventures. This gift has allowed me to be a great actor, musician, rock climber, chef, and anything you can think of, I was. Still, I don’t wish to complain, I really don’t. [exaggerated] But it gets pointless.
 

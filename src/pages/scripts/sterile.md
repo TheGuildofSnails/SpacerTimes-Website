@@ -1,3 +1,7 @@
+---
+layout: ../../layouts/Scripts.astro
+---
+
 Marian
 They never knew how dirty they were. 
 

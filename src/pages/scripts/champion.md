@@ -1,3 +1,7 @@
+---
+layout: ../../layouts/Scripts.astro
+---
+
 Quintin
 What loss? 
 

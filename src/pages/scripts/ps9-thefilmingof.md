@@ -1,3 +1,7 @@
+---
+layout: ../../layouts/Scripts.astro
+---
+
 GASAN
 You read the script right?
 

@@ -1,3 +1,7 @@
+---
+layout: ../../layouts/Scripts.astro
+---
+
 NARRATOR
 Twelve men sit in a burned down ballroom. Their backs are straight with dead silence hanging about. The man's eyes darted to one another fearful for what’s to happen. A couple of them shaking slightly, though they try to hide it. Others are sweating, letting the droplets hit their eyes terrified for what would happen if they wiped their foreheads. 
 

@@ -1,3 +1,7 @@
+---
+layout: ../../layouts/Scripts.astro
+---
+
 CATHERINE
 Doctor, will I ever be normal?
 

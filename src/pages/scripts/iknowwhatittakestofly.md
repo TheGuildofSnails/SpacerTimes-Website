@@ -1,3 +1,7 @@
+---
+layout: ../../layouts/Scripts.astro
+---
+
 Narrator
 The sound of fire filled the air. Balloon boys in their famous stance with one arm on the flamer of their one man hot air balloon; the other holding their weapon of choice. Anyone could be attacked at anytime. 
 

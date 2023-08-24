@@ -1,3 +1,7 @@
+---
+layout: ../../layouts/Scripts.astro
+---
+
 Neem
 Thank you for joining us, Jauna. 
 

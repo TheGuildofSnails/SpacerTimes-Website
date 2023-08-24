@@ -1,4 +1,8 @@
-# Bitter Bastards: The Ice Cream Man
+---
+layout: ../../layouts/Scripts.astro
+---
+
+# Bitter Bastards: The Ice Cream Man 
 
 Hello and welcome to the historical museum of the Bitter Bastards - brought to you by Spacer Times! Watch as the courts of an ancient system try to solve the issues of crime in a civil society. Today we have a case from 2096. Please enjoy this reenactment by our talented actors, and always remember, SpacerTimes - the only source of true news.
 

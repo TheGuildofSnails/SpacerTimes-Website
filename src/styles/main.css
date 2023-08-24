@@ -1,23 +1,23 @@
 /*--- Main ---*/
 
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;700&display=swap");
 
 body {
-    background-color: #18182e;
-    color: white;
-    font-family: 'Roboto Slab', serif;
+  background-image: linear-gradient(234deg, #18182e 0%, #2d2a54 50%, #18182e 100%);
+  color: white;
+  font-family: "Roboto Slab", serif;
 }
 
 .bg-light {
-    --bs-bg-opacity: .9;
+  --bs-bg-opacity: 0.9;
 }
 
 .navbar {
-    --bs-navbar-toggler-icon-bg: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgb(255 255 255 / 90%)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
-    --bs-navbar-color: rgb(255 255 255 / 90%);
-    --bs-navbar-toggler-focus-width: 0;
-    --bs-navbar-brand-color: none;
-    --bs-navbar-brand-hover-color: none;
+  --bs-navbar-toggler-icon-bg: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgb(255 255 255 / 90%)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+  --bs-navbar-color: rgb(255 255 255 / 90%);
+  --bs-navbar-toggler-focus-width: 0;
+  --bs-navbar-brand-color: none;
+  --bs-navbar-brand-hover-color: none;
 }
 
 .navbar-toggler {
@@ -31,257 +31,25 @@ body {
 
 .header-h {
   transition: all 1s;
-  color: #fff!important;
+  color: #fff !important;
   fill: #fff;
 }
 
 .header-h:hover {
-  color: #ffae00!important;
+  color: #ffae00 !important;
   fill: #ffae00;
+}
+
+
+.about-height {
+  height: 100vh;
 }
 
 /* Article Thumbnails */
 .bg-costa {
-  min-height:100%;
-  background:linear-gradient(0deg, rgb(0, 0, 0, 0.8), rgb(24, 24, 24, 0.8)), url(../images/costa.webp);
-  background-size:cover;
-  background-position: center;
-}
-
-.bg-peptalksonhighflight {
-  min-height:100%;
-  background:linear-gradient(0deg, rgb(0, 0, 0, 0.8), rgb(24, 24, 24, 0.8)), url(../images/peptalksonhighflight.webp);
-  background-size:cover;
-  background-position: center;
-}
-
-.bg-doltsorna {
-  min-height:100%;
-  background:linear-gradient(0deg, rgb(0, 0, 0, 0.8), rgb(24, 24, 24, 0.8)), url(../images/doltsorna.webp);
-  background-size:cover;
-  background-position: center;
-}
-
-.bg-doltsimon {
-  min-height:100%;
-  background:linear-gradient(0deg, rgb(0, 0, 0, 0.8), rgb(24, 24, 24, 0.8)), url(../images/doltsimon.webp);
-  background-size:cover;
-  background-position: center;
-}
-
-.bg-doltdanya {
-  min-height:100%;
-  background:linear-gradient(0deg, rgb(0, 0, 0, 0.8), rgb(24, 24, 24, 0.8)), url(../images/doltdanya.webp);
-  background-size:cover;
-  background-position: center;
-}
-
-.bg-aneweden {
-  min-height:100%;
-  background:linear-gradient(0deg, rgb(0, 0, 0, 0.8), rgb(24, 24, 24, 0.8)), url(../images/aneweden.webp);
-  background-size:cover;
-  background-position: center;
-}
-
-.bg-theballroom {
-  min-height:100%;
-  background:linear-gradient(0deg, rgb(0, 0, 0, 0.8), rgb(24, 24, 24, 0.8)), url(../images/theballroom.webp);
-  background-size:cover;
-  background-position: center;
-}
-
-.bg-selenathemartian {
-  min-height:100%;
-  background:linear-gradient(0deg, rgb(0, 0, 0, 0.8), rgb(24, 24, 24, 0.8)), url(../images/selenathemartian.webp);
-  background-size:cover;
-  background-position: center;
-}
-
-.bg-sanityerased {
-  min-height:100%;
-  background:linear-gradient(0deg, rgb(0, 0, 0, 0.8), rgb(24, 24, 24, 0.8)), url(../images/sanityerased.webp);
-  background-size:cover;
-  background-position: center;
-}
-
-.bg-icecream {
-  min-height:100%;
-  background:linear-gradient(0deg, rgb(0, 0, 0, 0.8), rgb(24, 24, 24, 0.8)), url(../images/icecream.webp);
-  background-size:cover;
-  background-position: center;
-}
-
-.bg-cold {
-  min-height:100%;
-  background:linear-gradient(0deg, rgb(0, 0, 0, 0.8), rgb(24, 24, 24, 0.8)), url(../images/cold.webp);
-  background-size:cover;
-  background-position: center;
-}
-
-.bg-vern {
-  min-height:100%;
-  background:linear-gradient(0deg, rgb(0, 0, 0, 0.8), rgb(24, 24, 24, 0.8)), url(../images/vern.webp);
-  background-size:cover;
-  background-position: center;
-}
-
-.bg-home {
-  min-height:100%;
-  background:linear-gradient(0deg, rgb(0, 0, 0, 0.8), rgb(24, 24, 24, 0.8)), url(../images/home.webp);
-  background-size:cover;
-  background-position: center;
-}
-
-.bg-scoop {
-  min-height:100%;
-  background:linear-gradient(0deg, rgb(0, 0, 0, 0.8), rgb(24, 24, 24, 0.8)), url(../images/scoop.webp);
-  background-size:cover;
-  background-position: center;
-}
-
-.bg-thedandelionking {
-  min-height:100%;
-  background:linear-gradient(0deg, rgb(0, 0, 0, 0.8), rgb(24, 24, 24, 0.8)), url(../images/thedandelionking.webp);
-  background-size:cover;
-  background-position: center;
-}
-
-.bg-sterile {
-  min-height:100%;
-  background:linear-gradient(0deg, rgb(0, 0, 0, 0.8), rgb(24, 24, 24, 0.8)), url(../images/sterile.webp);
-  background-size:cover;
-  background-position: center;
-}
-
-.bg-champion {
-  min-height:100%;
-  background:linear-gradient(0deg, rgb(0, 0, 0, 0.8), rgb(24, 24, 24, 0.8)), url(../images/champion.webp);
-  background-size:cover;
-  background-position: center;
-}
-
-.bg-raid {
-  min-height:100%;
-  background:linear-gradient(0deg, rgb(0, 0, 0, 0.8), rgb(24, 24, 24, 0.8)), url(../images/raid.webp);
-  background-size:cover;
-  background-position: center;
-}
-
-.bg-sapphiresspring {
-  min-height:100%;
-  background:linear-gradient(0deg, rgb(0, 0, 0, 0.8), rgb(24, 24, 24, 0.8)), url(../images/sapphiresspring.webp);
-  background-size:cover;
-  background-position: center;
-}
-
-.bg-ikwittf {
-  min-height:100%;
-  background:linear-gradient(0deg, rgb(0, 0, 0, 0.8), rgb(24, 24, 24, 0.8)), url(../images/inwittf.webp);
-  background-size:cover;
-  background-position: center;
-}
-
-.bg-ps9-tfo {
-  min-height:100%;
-  background:linear-gradient(0deg, rgb(0, 0, 0, 0.8), rgb(24, 24, 24, 0.8)), url(../images/ps9-tfo.webp);
-  background-size:cover;
-  background-position: center;
-}
-
-.bg-scientificstork {
-  min-height:100%;
-  background:linear-gradient(0deg, rgb(0, 0, 0, 0.8), rgb(24, 24, 24, 0.8)), url(../images/scientificstork.webp);
-  background-size:cover;
-  background-position: center;
-}
-
-.bg-fran {
-  min-height:100%;
-  background:linear-gradient(0deg, rgb(0, 0, 0, 0.8), rgb(24, 24, 24, 0.8)), url(../images/fran.webp);
-  background-size:cover;
-  background-position: center;
-}
-
-.bg-cryptidchristmas {
-  min-height:100%;
-  background:linear-gradient(0deg, rgb(0, 0, 0, 0.8), rgb(24, 24, 24, 0.8)), url(../images/cryptidchristmas.webp);
-  background-size:cover;
-  background-position: center;
-}
-
-.bg-stock {
-  min-height:100%;
-  background:linear-gradient(0deg, rgb(0, 0, 0, 0.8), rgb(24, 24, 24, 0.8)), url(../images/stock.webp);
-  background-size:cover;
-  background-position: center;
-}
-
-.bg-immortal {
-  min-height:100%;
-  background:linear-gradient(0deg, rgb(0, 0, 0, 0.8), rgb(24, 24, 24, 0.8)), url(../images/immortal.webp);
-  background-size:cover;
-  background-position: center;
-}
-
-.bg-ramble {
-  min-height:100%;
-  background:linear-gradient(0deg, rgb(0, 0, 0, 0.8), rgb(24, 24, 24, 0.8)), url(../images/ramble.webp);
-  background-size:cover;
-  background-position: center;
-}
-
-.bg-ps9 {
-  min-height:100%;
-  background:linear-gradient(0deg, rgb(0, 0, 0, 0.8), rgb(24, 24, 24, 0.8)), url(../images/philistinesquad9.webp);
-  background-size:cover;
-  background-position: center;
-}
-
-.bg-greatness {
-  min-height:100%;
-  background:linear-gradient(0deg, rgb(0, 0, 0, 0.8), rgb(24, 24, 24, 0.8)), url(../images/greatness.webp);
-  background-size:cover;
-  background-position: center;
-}
-
-.bg-presbyurban {
-  min-height:100%;
-  background:linear-gradient(0deg, rgb(0, 0, 0, 0.8), rgb(24, 24, 24, 0.8)), url(../images/presbyurban.webp);
-  background-size:cover;
-  background-position: center;
-}
-
-.bg-stayhouse {
-  min-height:100%;
-  background:linear-gradient(0deg, rgb(0, 0, 0, 0.8), rgb(24, 24, 24, 0.8)), url(../images/stayhouse.webp);
-  background-size:cover;
-  background-position: center;
-}
-
-.bg-silence {
-  min-height:100%;
-  background:linear-gradient(0deg, rgb(0, 0, 0, 0.8), rgb(24, 24, 24, 0.8)), url(../images/silence.webp);
-  background-size:cover;
-  background-position: center;
-}
-
-.bg-anightonthetown {
-  min-height:100%;
-  background:linear-gradient(0deg, rgb(0, 0, 0, 0.8), rgb(24, 24, 24, 0.8)), url(../images/anightonthetown.webp);
-  background-size:cover;
-  background-position: center;
-}
-
-.bg-manofhumbleness {
-  min-height:100%;
-  background:linear-gradient(0deg, rgb(0, 0, 0, 0.8), rgb(24, 24, 24, 0.8)), url(../images/manofhumbleness.webp);
-  background-size:cover;
-  background-position: center;
-}
-
-.bg-manoffaith {
-  min-height:100%;
-  background:linear-gradient(0deg, rgb(0, 0, 0, 0.8), rgb(24, 24, 24, 0.8)), url(../images/manoffaith.webp);
-  background-size:cover;
+  min-height: 100%;
+  background: linear-gradient(0deg, rgb(0, 0, 0, 0.8), rgb(24, 24, 24, 0.8)),
+    url(../images/costa.webp);
+  background-size: cover;
   background-position: center;
 }

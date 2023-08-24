@@ -1,3 +1,7 @@
+---
+layout: ../../layouts/Scripts.astro
+---
+
 **Morgan Fischer**<br/>
 Hello. My name is Morgan Fischer, and this is my last transmission.
 

@@ -1,3 +1,7 @@
+---
+layout: ../../layouts/Scripts.astro
+---
+
 Narrator
 The Hotel room was moldy and small. Hollus could barely use the little dinner table to clean his gun.
 

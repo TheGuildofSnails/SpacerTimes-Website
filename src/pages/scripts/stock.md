@@ -1,3 +1,7 @@
+---
+layout: ../../layouts/Scripts.astro
+---
+
 Andrea
 Thank you for sitting down with us.
 

@@ -1,3 +1,7 @@
+---
+layout: ../../layouts/Scripts.astro
+---
+
 NARRATOR
 Stay House, opened in 1947 its original founder, Staver Houstin was given the task of rehabilitating rogue women. Despite their many years open, not much is known how they do so. The employees often stay for life and are ferociously loyal. The critics of Stay House accuse them of cult-like behavior to get these women back to society's standards. Of course this is denied by the head doctor. They always claim their methods are completely based on science and facts. They even say they won't use hypnosis since it can produce religious feelings. Not that it quells any of the activists' protests. 
 
