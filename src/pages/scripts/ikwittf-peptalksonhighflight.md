@@ -4,131 +4,131 @@ layout: ../../layouts/Scripts.astro
 
 # I Know What It Takes To Fly: Pep Talks On High Flight
 
-Narrator
+**NARRATOR:**
 The Ballon Boy’s air court was massive. Hundreds of young and old men stood on a ten thousand square foot platform. The platform came from scraps around the world. Buses and hospital beds made up the cafeteria. The beds were made of old melted utensils, the straw came from the rare patches of land that could support growing crops. The arena was made of building support beams, its hard surface making falling a punishing experience. 
 
-Narrator
+**NARRATOR:**
 Commander Bornum was a scary man. He stood tall above most senior staff. His scars showed a lifetime of combat, his limp showed the consequences.  Despite his scary exterior, his heart was big. Jokingly called the ‘Den Mother’ he guided hundreds of boys through life's struggles. Even the boys or men who hated him had to respect his hands-on leadership. 
 
-Commander Bornum
+**CAMMANDER BORNUM:**
 Son, it seems you're sitting alone.
 
-Vinny
+**VINNY:**
 I am sir.
 
-Commander Bornum
+**CAMMANDER BORNUM:**
 Why’s that?
 
-Narrator
+**NARRATOR:**
 He sat down with his plate. It was the same gruel mix the boys ate, in fact, he was never seen eating the officer's food. His only vice was cigars. 
 
-Vinny
+**VINNY:**
 I wet the bed and now they’re making fun of me. They call me pee head. 
 
-Narrator
+**NARRATOR:**
 Commander Bornum saw that he had a black eye as well. 
 
-Commander Bornum
+**CAMMANDER BORNUM:**
 I see they do more than that.
 
-Vinny
+**VINNY:**
 [whisper] They hit me.
 
-Commander Bornum
+**CAMMANDER BORNUM:**
 [whispering back] Hey, could I tell you a secret?
 
-Narrator
+**NARRATOR:**
 Vinny nodded his head. And Commander Bornum waved him closer. 
 
-Commander Bornum
+**CAMMANDER BORNUM:**
 I peed the bed till I was twelve.
 
-Vinny
+**VINNY:**
 No you didn’t!
 
-Commander Bornum
+**CAMMANDER BORNUM:**
 Yeah I did.
 
-Narrator
+**NARRATOR:**
 The boy tried to cover his giggling face with his hands.
 
-Commander Bornum
+**CAMMANDER BORNUM:**
 Listen, I have to go off and talk to some important person. But I need you to do one thing for me, okay? 
 
-Vinny
+**VINNY:**
 What?
 
-Commander Bornum
+**CAMMANDER BORNUM:**
 I need you to kick the ass of the kid that gave you that. Can you do that for me? 
 
-Narrator
+**NARRATOR:**
 Vinny shrunk back. 
 
-Vinny
+**VINNY:**
 But, wha-what if I lose?
 
-Commander Bornum
+**CAMMANDER BORNUM:**
 Then you try again, and again and again.
 
-Vinny
+**VINNY:**
 That sounds painful.
 
-Commander Bornum
+**CAMMANDER BORNUM:**
 It is, such is the price of dignity.
 
-Vinny
+**VINNY:**
 Digenty?
 
-Commander Bornum
+**CAMMANDER BORNUM:**
 Yes son it’s what makes us a man. You are a man?
 
-Vinny
+**VINNY:**
 Yeah! I am!
 
-Commander Bornum
+**CAMMANDER BORNUM:**
 Then go kick ass like one!
 
-Narrator
+**NARRATOR:**
 Vinny didn’t even say goodbye. He ran to the six year old that gave him a black eye and tackled him to the ground. His baby fists slamming into his opponent's nose. commander Bornum laughed. 
 
-Commander Bornum
+**CAMMANDER BORNUM:**
 Hahaha! Good lad!
 
-Narrator
+**NARRATOR:**
 He walked over to the table to the disapprovement of his granddaughter, the only woman on the airship. 
 
-Julia
+**JULIA:**
 Could you not? The boy is only six.
 
-Commander Bornum
+**CAMMANDER BORNUM:**
 I would tell him that if he was five. A man has to start early. 
 
-Julia
+**JULIA:**
 He’s still a baby.
 
-Commander Bornum
+**CAMMANDER BORNUM:**
 Sounds like a grand time to learn then! Now tell me what have you been up to?
 
-Julia
+**JULIA:**
 Oh nothing important, just working on a trade for some more water. I guess we’re running low.
 
-Commander Bornum
+**CAMMANDER BORNUM:**
 No! No! That is the most important. Without it we'd all thirst to death! 
 
-Julia
+**JULIA:**
 Calm down. I don’t need a pep talk.
 
-Narrator
+**NARRATOR:**
 Commander Bornum got down on one knee to match her eye line.
 
-Commander Bornum
+**CAMMANDER BORNUM:**
 My dear, we all need a pep talk. You give life through your dealings. Without you, we would not eat nor drink. Never forget that.
 
-Julia
+**JULIA:**
 Who pep talks you then? You do the most of all of us. Without you we’d all fail.
 
-Commander Bornum
+**CAMMANDER BORNUM:**
 Oh! I think you just answered your own question.
 
-Narrator
+**NARRATOR:**
 He got up flashing a smile to his granddaughter. Looking for the next officer or child that needed his help. 

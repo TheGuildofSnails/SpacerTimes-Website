@@ -4,7 +4,6 @@ layout: ../../layouts/Scripts.astro
 
 # Sanity Erased
 
-**Morgan Fischer**<br/>
 Hello. My name is Morgan Fischer, and this is my last transmission.
 
 Well, it is also my first, but that’s only because I just now managed to find where Brian stashed the comms device.

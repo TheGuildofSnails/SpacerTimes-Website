@@ -10,7 +10,7 @@ const reversedVideos = allvideos.reverse();
         <h2>{video.frontmatter.name}</h2>
         <p>{video.frontmatter.desc}</p>
         <a class="btn btn-outline-light btn-lg" type="button" href={video.frontmatter.link} target="_blank">Watch Now</a>
-        <a class="btn btn-outline-light btn-lg" type="button" href={"scripts/" + video.frontmatter.script}>Read Now</a>
+        <a class="btn btn-outline-light btn-lg" type="button" href={"scripts/" + video.frontmatter.script} target="_blank">Read Now</a>
       </div>
     </div>
   ))

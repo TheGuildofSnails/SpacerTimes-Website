@@ -8,7 +8,7 @@ body {
 	justify-content: center;
 	padding-top: 2.5rem;
 	padding-bottom: 2.5rem;
-	background-color: #f9fbfd;
+	background-image: linear-gradient(234deg, #18182e 0%, #2d2a54 50%, #18182e 100%);
 }
 
 h1 {
@@ -18,18 +18,19 @@ h1 {
 
 .page {
 	background-color: white;
-	padding: 2rem;
+	padding: 10rem;
 	max-width: 70vw;
-    box-shadow: 0px 0px 12px 0px #e4e4e4;
+    box-shadow: 0px 0px 12px 0px #9f9f9f;
 }
 
 @media screen and (max-width: 1024px) {
 	.page {
-		max-width: 80vw;	
+		max-width: 80vw;
+		padding: 5rem;	
 	}
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 428px) {
 	body {
 		padding-top: 0;
 		padding-bottom: 0;
@@ -37,5 +38,6 @@ h1 {
 
 	.page {
 		max-width: 100vw;	
+		padding: 2rem;
 	}
 }

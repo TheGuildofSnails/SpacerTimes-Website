@@ -4,140 +4,140 @@ layout: ../../layouts/Scripts.astro
 
 # Scientific Stork
 
-PETE
+**PETE:**
 Come in!
 
-NARRATOR
+**NARRATOR:**
 Samantha sat down on the aged seat. 
 
-PETE
+**PETE:**
 Samatha Wellgns correct?
 
-SAMANTHA
+**SAMANTHA:**
 Wilgins.
 
-PETE
+**PETE:**
 Right, thanks.
 
-NARRATOR
+**NARRATOR:**
 Pete made sure to take his time to correct the mistake with his white out. 
 
-PETE
+**PETE:**
 Wilgins. Alright, let's talk matchmaking. How's it been with Miles?
 
-SAMANTHA
+**SAMANTHA:**
 It's been going well, I feel a real good connection with him. Last week we were doing our SMT’s together and our answers were quite similar.
 
-PETE
+**PETE:**
 Good, real good. Is this your first match?
 
-SAMANTHA
+**SAMANTHA:**
 Second.
 
-PETE
+**PETE:**
 And who was your first match?
 
-SAMANTHA
+**SAMANTHA:**
 Siemens Confer.
 
-PETE
+**PETE:**
 Why did the match fallout?
 
-SAMANTHA
+**SAMANTHA:**
 Are you sure it's not in your file why it didn’t work? You guys take notes on everything.
-PETE
+**PETE:**
 Well I like to hear it from the source. Us matchmakers can sometimes be a little, light on details.
 
-SAMANTHA
+**SAMANTHA:**
 Well Siemens, he was a good man. I remember he was always very hardworking. Always remembered my family's birthdays and even my friend’s birthday. I always felt heard with him,but he was a very angry man.
 
-PETE
+**PETE:**
 Has he ever hit you? I don’t see that in the file. 
 
-SAMANTHA
+**SAMANTHA:**
 No, he’d never do anything like that. It was more of his anger at the outside world. If someone bumped into him he’d start cursing them out. Same with waiters at restaurants, they mess up one thing and he’d have the managers kicking us out. I’m still banned from a couple restaurants because of him. I just couldn’t imagine him at the wedding ceremony.
 
-PETE
+**PETE:**
 Besides the anger was that the only reason?
 
-SAMANTHA
+**SAMANTHA:**
 Well that's why I wanted to end the courtship, your office said that the SMT’s didn’t match.
 
-PETE
+**PETE:**
 Makes sense, Now back to Miles. With the genetics tests, did you get your test in the mail yet?
 
-SAMANTHA
+**SAMANTHA:**
 No, Miles did though.
 
-NARRATOR
+**NARRATOR:**
 A silence held in the air for an uncomfortable amount of time. 
 
-PETE
+**PETE:**
 Well, I’m guessing you know then, sorry.
 
 
-SAMANTHA
+**SAMANTHA:**
 Thanks, Miles is still torn up about it.
 
 
-PETE
+**PETE:**
 Give him my condolences.
 
-SAMANTHA
+**SAMANTHA:**
 I will.
 
-PETE
+**PETE:**
 So, I have seen your genetic tests and let me say you have a very high fertility rate. Your motherhood test was also high. 
 
-NARRATOR
+**NARRATOR:**
 Samanatha looked frightened at this news. 
 
-PETE
+**PETE:**
 Don’t worry, you can keep your courtship. All you need to do is sign up for a new program we’re starting. It's artificial insemination, now I know it sounds weird. I assure you it's much more simple than you could think. 
 
-SAMANTHA
+**SAMANTHA:**
 Wouldn’t that be, cheating?
 
-PETE
+**PETE:**
 No, the sperm is put into a vial with your eggs and then it's injected into your body. You never see the contributor; nor do you need to ever tell the child about its technical father.
 
-SAMANTHA
+**SAMANTHA:**
 Wait? Would Miles still father the child?
 
-PETE
+**PETE:**
 Yes, the contributor of the sperm wouldn’t even be in the paperwork. All you have to know is his genetics are a complete match.
 
-SAMANTHA
+**SAMANTHA:**
 Would the surgery be invasive?
 
-PETE
+**PETE:**
 Samantha I’m afraid I don’t have all the information. All I need you too do is think about it,okay? I’ll have Miles in with you for our weekly. There we can go more in topic. I do want to give you this book that goes more in depth. I took the time to add some other womens contact information who have also agreed to the program. You’d be shocked how many high tier women loved it.
 
-SAMANTHA
+**SAMANTHA:**
 Pete, do you feel like Miles would agree?
 
-PETE
+**PETE:**
 I couldn’t tell you. It's certainly a crushed dream for him, most men I’d imagine. I think you should talk to him. Really read the book, let him see why this is a good idea. And I’m not supposed to tell you this, but they’re willing to move him to sector three if he chooses too.
 
-SAMANTHA
+**SAMANTHA:**
 Oh, Is that confirmed for sure?
 
-PETE
+**PETE:**
 Yep, it's going to be hand signed by the governor. We’re serious about getting this program off the ground. 
 
-SAMANTHA
+**SAMANTHA:**
 How many couples are going to sign up? 
 
-PETE
+**PETE:**
 I can’t tell you the true number, but it's high.
 
-SAMANTHA
+**SAMANTHA:**
 [excited]
 Wow. 
 
-PETE
+**PETE:**
 Thanks I’m proud of being able to help couples like yourself. Now, if you’ll let me go I should have someone else coming in soon. Have a good day Samantha.
 
-SAMANTHA
+**SAMANTHA:**
 You too Pete.
 
