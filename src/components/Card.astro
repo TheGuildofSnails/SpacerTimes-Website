@@ -6,7 +6,7 @@ const reversedVideos = allvideos.reverse();
 {
   reversedVideos.map((video) => (
     <div class="mb-4 col-md-6">
-      <div class="h-100 p-5 text-light rounded-3 background" style={{backgroundImage: `linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(24, 24, 24, 0.8)), url(src/images/${video.frontmatter.image})`}}>
+      <div class="h-100 p-5 text-light rounded-3 background" style={{backgroundImage: `linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(24, 24, 24, 0.8)), url(public/images/${video.frontmatter.image})`}}>
         <h2>{video.frontmatter.name}</h2>
         <p>{video.frontmatter.desc}</p>
         <a class="btn btn-outline-light btn-lg" type="button" href={video.frontmatter.link} target="_blank">Watch Now</a>
