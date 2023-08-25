@@ -3,7 +3,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;700&display=swap");
 
 body {
-	font-family: 'Roboto Slab', serif;
+	font-family: 'Arial', serif;
 	display: flex;
 	justify-content: center;
 	padding-top: 2.5rem;
@@ -13,6 +13,13 @@ body {
 }
 
 h1 {
+	font-family: 'Roboto Slab', serif;
+	text-align: center;
+	padding-bottom: 2rem;
+}
+
+h5 {
+	font-family: 'Roboto Slab', serif;
 	text-align: center;
 	padding-bottom: 2rem;
 }
