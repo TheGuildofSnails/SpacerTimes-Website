@@ -2,7 +2,7 @@
 layout: ../../layouts/Scripts.astro
 ---
 
-# The Frailium: Turnout Blues
+# The Fralium: Turnout Blues
 
 **NARRATOR:**
 Brandle, a burly man. A merchant for many years, he was known as Max, the nickname of the oldest boat in the dock. The day was going slow until Sasha stopped at his office. 
