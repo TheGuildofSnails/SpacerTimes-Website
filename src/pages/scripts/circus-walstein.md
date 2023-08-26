@@ -70,7 +70,7 @@ layout: ../../layouts/Scripts.astro
 
 **TOMLIN:** I know...
 
-**WALSTEIN: _Good_**. Since you felt the need to show me that aspect of yourself I will give you a choice. I will drop this child unless you give up one of your own. I need it to be someone _close_, someone you love dearly. I want you to know we will torture this person _every. single. day._ They will never see the sun, they will never see peace again. We will peel the skin from their bones, rip out their fingernails, and we will wait for them to grow back to do it _again_. We will drip molten iron on their skin. We will make sure they carry your mistake for the rest of their life. So _where_ is this individual you love so dearly, that you would _betray_ so heartlessly?
+**WALSTEIN:** _Good_. Since you felt the need to show me that aspect of yourself I will give you a choice. I will drop this child unless you give up one of your own. I need it to be someone _close_, someone you love dearly. I want you to know we will torture this person _every. single. day._ They will never see the sun, they will never see peace again. We will peel the skin from their bones, rip out their fingernails, and we will wait for them to grow back to do it _again_. We will drip molten iron on their skin. We will make sure they carry your mistake for the rest of their life. So _where_ is this individual you love so dearly, that you would _betray_ so heartlessly?
 
 **TOMLIN:** I-i can’t do that, I can't!
 
