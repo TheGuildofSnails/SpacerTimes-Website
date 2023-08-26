@@ -60,7 +60,7 @@ layout: ../../layouts/Scripts.astro
 
 **NARRATOR:** Benny’s wife pulled out a pistol from under the bed. [sfx. Pistol clicks]
 
-**BARB: **[screaming] You put him down!
+**BARB:** [screaming] You put him down!
 
 **BAUSE:** Barb- honey, put the gun down okay?
 
