@@ -34,8 +34,7 @@ layout: ../../layouts/Scripts.astro
 
 **DOCTOR:** [sucking teeth] _Wellll_, we’ve been hard at work to contact anyone who would be willing to help out, and frankly, no one responded, it appears we are at a dead end. I am deeply sorry…
 
- \
-[sfx. Car door shut, car start] \
+[sfx. Car door shut, car start]
 
 **NARRATOR:** Ide sat in the driveway with his car. [sfx. Rain pouring] The rain providing some soft noise for his disappointment. Inside he felt _numb_, cauterized against hope. Cynically he looked at his reflection, half man, half tiger. His right eye black and dull covered by bright orange fur. His skin seamlessly sown in with the skin of the tiger. From the outside, it was quite the sight. Inside it was _painful_. The tiger’s skull carelessly _mashed_ with his own. The skin was always so tight on his skull that he could never sleep properly without _help_. The worst pain came from the stares of everyone. No matter where he went he could never find peace. Of course, no one said anything to him out of fear or pity. Even after being rescued, he was still a circus oddity. He pushed the mirror away, pulling out his phone to text someone before leaving his car. In the soft rain he entered an empty home. On the kitchen counter sat shattered family pictures, on the kitchen floor sat molded food, barely touched by the rats that roamed the house. Ide calmly put something in his pocket before leaving his house. He stopped at the entrance to look at a picture of a happy man holding a young girl. He gave a brief smile before wincing in pain. Looking back at the picture, he placed his paw over the man's face, pushing it in so hard it cracked. Licking the blood off his paw he closed his door. [sfx. Door slam] While in his car he received a call... 
 
