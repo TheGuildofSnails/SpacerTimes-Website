@@ -2,7 +2,7 @@
 layout: ../../layouts/Scripts.astro
 ---
 
-# I Know What It Takes To Fly: The Goddes Talks
+# I Know What It Takes To Fly: The Goddess Talks
 
 **NARRATOR:**
 Susie was a young girl, chosen to become a Goddess among men. She would sit on the glowing throne. A magnificent seat made from the glowing uranium in the deep valley. Every day Susie, now Gorek the fifteenth, would be painted from head to toe in paint made from the ore. Every night she would wear clothes made from it. She’d glow and show the raw power of The Gorek Empire. 
