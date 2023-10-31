@@ -1,15 +1,20 @@
 ---
-const { name, desc, link, image, script } = Astro.props;
+const allVideos = await Astro.glob("../content/videos/*.md");
+const reversedVideos = allVideos.reverse();
 ---
 
-<div class="p-5 mb-4 text-light bg-opacity-10 rounded-3 background" style={{backgroundImage: `linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(24, 24, 24, 0.8)), url(/images/${image})`}}>
+{
+  reversedVideos.slice(0,1).map((video) => (
+  <div class="p-5 mb-4 text-light bg-opacity-10 rounded-3 background" style={{backgroundImage: `linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(24, 24, 24, 0.8)), url(/images/${video.frontmatter.image})`}}>
     <div class="container-fluid py-5">
-      <h1 class="display-5 fw-bold">{name}</h1>
-      <p class="col-md-8 fs-4">{desc}</p>
-      <a class="btn btn-outline-light btn-lg" type="button" href={link} target="_blank">Watch Now</a>
-      <a class="btn btn-outline-light btn-lg" type="button" href={"scripts/" + script}>Read Now</a>
+      <h1 class="display-5 fw-bold">{video.frontmatter.name}</h1>
+      <p class="col-md-8 fs-4">{video.frontmatter.desc}</p>
+      <a class="btn btn-outline-light btn-lg" type="button" href={video.frontmatter.link} target="_blank">Watch Now</a>
+      <a class="btn btn-outline-light btn-lg" type="button" href={"scripts/" + video.frontmatter.script}>Read Now</a>
     </div>
   </div>
+  ))
+}
 
 <style>
   .background {
