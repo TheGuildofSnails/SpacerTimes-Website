@@ -9,7 +9,7 @@ const reversedVideos = allVideos.reverse();
       <div class="h-100 p-5 text-light rounded-3 background" style={{backgroundImage: `linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(24, 24, 24, 0.8)), url(/images/${video.frontmatter.image})`}}>
         <h2>{video.frontmatter.name}</h2>
         <p>{video.frontmatter.desc}</p>
-        <a class="btn btn-outline-light btn-lg" type="button" href={video.frontmatter.link} target="_blank">Watch Now</a>
+        <a class="btn btn-outline-light btn-lg me-4" type="button" href={video.frontmatter.link} target="_blank">Watch Now</a>
         <a class="btn btn-outline-light btn-lg" type="button" href={"scripts/" + video.frontmatter.script}>Read Now</a>
       </div>
     </div>
