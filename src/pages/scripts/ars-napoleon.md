@@ -2,7 +2,7 @@
 layout: ../../layouts/Scripts.astro
 ---
 
-# A readers story - Napoline
+# A readers story - Napoleon
 ##### Wrote by Ethan Skinner
 
 **NARRATOR:** 12th, February, 1819-
