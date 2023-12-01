@@ -1,0 +1,18 @@
+---
+layout: ../../layouts/Scripts.astro
+---
+
+# Tess
+##### Wrote by Ethan Skinner
+
+**NARRATOR:** The Hanover woods held many secrets. We were proud of these secrets even if we didn’t believe them, made for good tourism. Now I won’t speak for any of the other legends but I know of Tess. I don’t know if anyone else can confirm it but I’ve seen her. It was years ago when I was younger. At the time I was devastated from a break up and vowed to enter the Hanover woods till I felt better. So I took my tent and took a lot of supplies. I must have been miles in before I set up camp. It was easy enough being a former Eagle scout, still I had a bad feeling about these woods. I could survive, sure, but would it draw me in? There were guys I knew that just went camping and never came back. You might see sightings every ten years or so but they were gone in every other sense. The Hanover woods had that effect.
+
+[long pause]
+
+It was probably the eighth night before I heard Tess. It was a deep meow, I’ve heard the panthers that ran around those woods, it didn’t sound like that. I was so curious I couldn’t sleep so I looked around and saw nothing. I figured I was going crazy shortly after and went to bed. That morning I got up and I heard snoring. I’ve had bears sleep on the porch before, it didn’t sound like a bear either. It was dumb of me but I grabbed my bear mace and ripped out of the tent. I tell you it took me several moments to comprehend what I saw. A cat, the size of a _bus._ She had these brilliant white paws, the fluffiest black fur. I was unsure what to do, I didn’t want to become her next target though. I was lucky enough that she was uninterested in me. I figured I should have ran; guess I didn’t care too much if I was eaten by a giant cat. Since I just started cooking some bacon. She was interested in me, then, I saw her strut right next to me and just stared at my pan. To her credit she didn’t try to steal a piece. Taking a chance I took a piece and tossed it to her. She jumped back to stare at it, almost took down a couple trees. Well she took her giant tongue and scarfed down the piece. Getting an idea I offered her another piece, and well enough she ate from my hand. After that she wouldn’t leave my side. During the day we’d fish from the lake. It was plentiful so I made sure she would get every third fish or so, with a scratch of course. She’d tilt her head towards you and just show you a level of attentiveness I don’t think I’ve ever seen from a cat. When she got hungry she would go off to catch a deer or even one time a crocodile. I was so terrified she would get bored and drop it in the camp site. She never did, it's like she knew I wasn’t as much of a warrior as her. It would start to get dark and she’d roll around the dirt, I learned quickly to not start the fire _until_ after her dirt bath. Every night I would rest near her head playing some old tunes from my banjo. She’d purr herself and me to sleep [sigh].  
+
+There was a time I was considering living the rest of my life in those woods. Honestly I was close to doing so. The world was so simple, you know? I couldn’t tell you what changed my mind, I think it was having a meal that wasn’t fish. 
+
+[long pause]
+
+I think about that cat a lot. I've tried to find her but she’s far gone now. I’m so grateful for the cat. She got me out of my own world, forced me to see some wonder in it. I named her Tessa if that’s interesting. Just came to me one day.
