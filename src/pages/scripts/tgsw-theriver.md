@@ -88,9 +88,9 @@ layout: ../../layouts/Scripts.astro
 
 **NURSE:** [shouting] Dinner time!
 
-**JOHN:** Mind getting my chair?
+**STARM:** Mind getting my chair?
 
-**STARM:** Of course!
+**JOHN:** Of course!
 
 **NARRATOR:** John began pushing Starm’s wheelchair. 
 
