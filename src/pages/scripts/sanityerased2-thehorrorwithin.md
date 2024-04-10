@@ -15,10 +15,10 @@ Ah, Mr. Binder, we've been expecting you, how is our star patient?
 She's still catatonic sir. We've been trying to get her to talk to us, but she's not saying much of anything really.
 
 ## UNKNOWN MALE VOICE
-But she is saying something.
+But she is saying something?
 
 ## MELVIN
-Yes. One word, cold. Over and over again. We've given her blankets, taken her temperature, everything. Just...cold.
+Yes. One word, "cold." Over and over again. We've given her blankets, taken her temperature, everything. Just..."cold."
 
 ## UNKNOWN MALE VOICE
 That is most concerning. Tell me Melvin, what do you think caused this?
@@ -43,6 +43,7 @@ I guess not.
 
 ## UNKNOWN MALE VOICE
 As I was saying. I've spoken with my head scientist, and he believes that her mind is broken, and the pieces need to manually be put back together. That's where you come in.
+
 ## MELVIN 
 I mean, I have some basic medical knowledge, but I'm not a brain surgeon.
 
@@ -117,10 +118,10 @@ You're to go through her memories, and attempt to rectify any traumatic or incon
 What does that mean?
 
 ## UNKNOWN MALE VOICE
-You'll know it when you see it. Has anyone ever tell you that you ask a lot of questions?
+You'll know it when you see it. Has anyone ever told you that you ask a lot of questions?
 
 ## MELVIN
-That the nature of being a scientist, asking questions.
+That's the nature of being a scientist, asking questions.
 
 ## UNKNOWN MALE VOICE
 Yes, that may be true, but you never ask the right ones.
@@ -188,7 +189,7 @@ You know, you're not very helpful.
 We got you this far didn't we?
 
 ## MELVIN
-To do a job you asked me to do!
+To do a job you forced me to do!
 
 ## UNKNOWN MALE VOICE
 Focus. There must be a key nearby.
