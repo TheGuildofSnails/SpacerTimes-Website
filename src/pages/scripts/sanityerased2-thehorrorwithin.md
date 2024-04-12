@@ -5,6 +5,20 @@ layout: ../../layouts/Screenplay.astro
 # Sanity Erased 2: The Horror Within.
 ##### written by Stephen Newhand
 
+* Unknown Male Voice: Aloof and authoritative. An underlying sinisterness. A little bit Giovanni from the old Pokemon anime.
+* Melvin: Suspicious, Cowardly. Stubborn. 
+* Attendant: Standard crony. 
+* Morgan: You already know 🙂
+* Commander Everett: Gruff, but fair. Typical military commander. 
+* Morgan’s Dad: Tired, desperate. New dad. 
+* Morgan’s Mom: Also tired and desperate. Slightly soothing. 
+* Morgan’s Grandfather: Calm, wizened, relaxed. Just enough grit to show his age. 
+* Benjamin: Rugged, but calm. A Marcus Fenix/Master Chief type. 
+* Marcus: Also rugged, but a bit more rough around the edges. A bit more jovial. 
+* Jane: No bullshit. Straight shooter. 
+* Mr Crow: Typical Diplomat. 
+* Brian: Suspicious,  conniving. Feels like he’s superior to everyone else. A bit Doc Octopus,
+
 #### SFX: DOOR CREAKS OPEN, SOUND OF SOMEONE SITTING IN CHAIR
 
 ## UNKNOWN MALE VOICE
