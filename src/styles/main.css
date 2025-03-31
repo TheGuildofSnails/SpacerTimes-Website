@@ -2,8 +2,15 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;700&display=swap");
 
+:root {
+  --bg-color:#282832;
+  --accent-color:#5d445c;
+  --primary-color:#ffb666;
+  --secondary-color:#df8171;
+}
+
 body {
-  background-image: linear-gradient(234deg, #18182e 0%, #2d2a54 50%, #18182e 100%);
+  background-image: linear-gradient(270deg, var(--bg-color) 0%, var(--accent-color) 50%, var(--bg-color) 100%);
   color: white;
   font-family: "Roboto Slab", serif;
 }
@@ -15,18 +22,18 @@ body {
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background-color: #18182e;
+  background-color: var(--bg-color);
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: #ffae00;
+  background: var(--primary-color);
   border-radius: 1rem;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #cc8b00;
+  background: var(--secondary-color);
 }
 
 .bg-light {
@@ -57,8 +64,8 @@ body {
 }
 
 .header-h:hover {
-  color: #ffae00 !important;
-  fill: #ffae00;
+  color: var(--primary-color) !important;
+  fill: var(--primary-color);
 }
 
 

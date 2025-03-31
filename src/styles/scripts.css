@@ -2,15 +2,43 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;700&display=swap");
 
+:root {
+	--bg-color:#282832;
+	--accent-color:#5d445c;
+	--primary-color:#ffb666;
+	--secondary-color:#df8171;
+}
+
 body {
 	font-family: 'Arial', serif;
 	display: flex;
 	justify-content: center;
 	padding-top: 2.5rem;
 	padding-bottom: 2.5rem;
-	background-image: linear-gradient(270deg, #18182e 0%, #2d2a54 50%, #18182e 100%);
+	background-image: linear-gradient(270deg, var(--bg-color) 0%, var(--accent-color) 50%, var(--bg-color) 100%);
 	background-size: 100%;
 }
+
+/* width */
+::-webkit-scrollbar {
+	width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+	background-color: var(--bg-color);
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+	background: var(--primary-color);
+	border-radius: 1rem;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+	background: var(--secondary-color);
+  }
 
 h1 {
 	font-family: 'Roboto Slab', serif;
@@ -38,16 +66,16 @@ h5 {
     font-size: 25px;
     font-weight: 700;
     text-decoration: none;
-    color: #4e5896;
-    border: solid 3px #4e5896;
+    color: var(--primary-color);
+    border: solid 3px var(--primary-color);
     border-radius: 1rem;
-    padding-right: 0.25rem;
 	transition: all 0.5s;
+	font-family: 'Courier New', Courier, monospace;
 }
 
 .scripts-back:hover {
-	color: #b8c0f8;
-    border: solid 3px #b8c0f8;
+	color: var(--secondary-color);
+    border: solid 3px var(--secondary-color);
 }
 
 @media screen and (max-width: 1024px) {
