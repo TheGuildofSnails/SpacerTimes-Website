@@ -6,7 +6,7 @@ const reversedVideos = allVideos.reverse();
 {
   reversedVideos.slice(1).map((video) => (
     <div class="mb-4 col-md-6">
-      <div class="h-100 p-5 text-light rounded-3 background" style={{backgroundImage: `linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(24, 24, 24, 0.8)), url(/images/${video.frontmatter.image})`}}>
+      <div class="h-100 p-5 text-light rounded-3 background card-glow" style={{backgroundImage: `linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(24, 24, 24, 0.7)), url(/images/${video.frontmatter.image})`}}>
         <h2>{video.frontmatter.name}</h2>
         <p>{video.frontmatter.desc}</p>
         <a class="btn btn-outline-light btn-lg me-4" type="button" href={video.frontmatter.link} target="_blank">Watch Now</a>
@@ -21,5 +21,14 @@ const reversedVideos = allVideos.reverse();
     min-height: 100%;
     background-size: cover;
     background-position: center;
+  }
+
+  .card-glow {
+    transition: all 0.25s;
+  }
+
+  .card-glow:hover {
+    box-shadow: 0rem 0rem 0.5rem 0.5rem var(--primary-color);
+    transform: scale(1.01);
   }
 </style>
